@@ -1,0 +1,1 @@
+For the policy reasons I cannot commit the excel files that I have been working with through the project. However, code scripts might give an idea how to use NLP to categorize data, with supervised learning methods.
